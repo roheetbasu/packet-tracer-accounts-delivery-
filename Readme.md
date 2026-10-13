@@ -24,7 +24,7 @@ routers and switches, built in Cisco Packet Tracer.
 - 1 router (or 2, depending on your design)
 
 ## Connectivity Test
-![Ping test](images/ping-test.png)
+![Ping test](images/Ping-test.png)
 
 ## How to Open
 Open `accounts-delivery-network.pkt` with Cisco Packet Tracer.
